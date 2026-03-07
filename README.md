@@ -1,0 +1,88 @@
+# Reality Drift Explained
+
+Short explanations of common modern experiences through the Reality Drift framework.
+
+Part of the Reality Drift research archive (2023–2026) by A. Jacobs.
+
+This repository contains short explanations of questions many people ask about modern life, culture, technology, and institutions.
+
+Each page starts with a recognizable experience and connects it to concepts from the Reality Drift framework.
+
+These explanations are designed to bridge everyday questions with deeper structural patterns in modern systems.
+
+---
+
+## What Is Reality Drift?
+
+Reality Drift describes a condition in which systems remain operational while gradually losing alignment with the real-world conditions they were built to represent.
+
+Optimization pressures, scaling, and layers of mediation can weaken feedback from reality while preserving internal coherence and performance metrics.
+
+Over time, representations become easier to maintain than the realities they once tracked.
+
+---
+
+## Questions This Repository Explores
+
+These pages start from real questions people ask about modern life.
+
+- [Why does everything feel fake online?](why-does-everything-feel-fake-online.md)
+- [Why does everything look the same now?](why-does-everything-look-the-same.md)
+- [Why does modern life feel overwhelming?](why-does-modern-life-feel-overwhelming.md)
+- [Why does time feel like it's speeding up?](why-does-time-feel-like-its-speeding-up.md)
+- [Why can modern work feel meaningless?](why-can-modern-work-feel-meaningless.md)
+- [Why do institutions feel broken?](why-do-institutions-feel-broken.md)
+- [Why is the internet getting worse?](why-is-the-internet-getting-worse.md)
+- [Why do conversations feel scripted now?](why-do-conversations-feel-scripted-now.md)
+- [Why does the world feel strange lately?](why-does-the-world-feel-strange-lately.md)
+- [Why does everything feel optimized now?](why-does-everything-feel-optimized.md)
+- [Why does the internet feel less human?](why-does-the-internet-feel-less-human.md)]
+- 
+
+---
+
+## Framework Concepts Referenced
+
+Many explanations reference key concepts from the Reality Drift framework:
+
+- Reality Drift  
+- Drift Principle  
+- Constraint Collapse  
+- Optimization Trap  
+- Filter Fatigue  
+- Synthetic Realness  
+- Semantic Fidelity  
+- Cognitive Drift  
+
+Canonical definitions of these concepts are available in the main framework repositories.
+
+---
+
+## Structure of Each Page
+
+Each explanation follows a simple structure:
+
+1. The real-world experience people recognize  
+2. A short explanation of the phenomenon  
+3. Connection to concepts from the Reality Drift framework  
+4. A simple mechanism or diagram showing the pattern
+
+This allows everyday questions to connect to deeper structural explanations.
+
+---
+
+## Relationship to the Reality Drift Library
+
+This repository is part of the broader Reality Drift research archive.
+
+Core framework materials, definitions, and conceptual diagrams are available in the main library:
+
+[Reality Drift Github Library](https://github.com/therealitydrift/reality-drift-library)
+
+---
+
+## License
+
+This repository is released under the CC0 1.0 Universal license.
+
+The materials are placed in the public domain to allow unrestricted reuse, citation, and discussion.
