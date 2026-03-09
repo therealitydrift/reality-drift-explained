@@ -37,7 +37,17 @@ These pages start from real questions people ask about modern life.
 - [Why does the world feel strange lately?](why-does-the-world-feel-strange-lately.md)
 - [Why does everything feel optimized now?](why-does-everything-feel-optimized.md)
 - [Why does the internet feel less human?](why-does-the-internet-feel-less-human.md)]
-- 
+
+---
+
+## Recognition Guides
+
+These short guides help readers identify patterns associated with the Reality Drift framework in everyday environments.  
+
+- [Signs You May Be Experiencing Reality Drift](signs-you-may-be-experiencing-reality-drift.md)  
+- [Signs You May Be Experiencing Filter Fatigue](signs-you-may-be-experiencing-filter-fatigue.md)  
+- [Signs You May Be Experiencing the Optimization Trap](signs-you-may-be-experiencing-the-optimization-trap.md)  
+- [Signs You May Be Experiencing Synthetic Realness](signs-you-may-be-experiencing-synthetic-realness.md)
 
 ---
 
