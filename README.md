@@ -69,6 +69,16 @@ Each explanation follows a simple structure:
 
 This allows everyday questions to connect to deeper structural explanations.
 
+## Additional Sources
+
+This collection is also available through several public archives and mirrors:
+
+- [OffbrandGuy ](https://offbrandguy.com/reality-drift-explained-questions-about-modern-life/)
+
+- [Figshare](https://figshare.com/articles/preprint/Reality_Drift_Explained_Short_Papers_on_Modern_Cultural_Questions/31565224)
+
+- [Internet Archive ](https://archive.org/details/reality-drift-explained-questions-about-modern-life/why-do-conversations-feel-scripted-now/)
+
 ---
 
 ## Relationship to the Reality Drift Library
