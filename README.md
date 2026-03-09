@@ -51,6 +51,22 @@ These short guides help readers identify patterns associated with the Reality Dr
 
 ---
 
+## Concept Connections
+
+These short papers connect widely discussed cultural or technological ideas to the Reality Drift framework.
+
+Each piece explains how familiar concepts or emerging internet theories relate to deeper structural dynamics in modern systems.
+
+- [Reality Drift and the Attention Economy](reality-drift-attention-economy.md)
+- [Reality Drift and the Dead Internet Theory](reality-drift-dead-internet-theory.md)
+- [Reality Drift and Enshittification](reality-drift-enshittification.md)
+- [Reality Drift and Institutional Failure](reality-drift-institutional-failure.md)
+- [Reality Drift and AI Alignment](reality-drift-ai-alignment.md)
+
+These pieces place the Reality Drift framework in conversation with existing discussions about technology, platforms, institutions, and AI systems.
+
+---
+
 ## Framework Concepts Referenced
 
 Many explanations reference key concepts from the Reality Drift framework:
