@@ -67,6 +67,22 @@ These pieces place the Reality Drift framework in conversation with existing dis
 
 ---
 
+## Reality Drift Visual Explainers
+
+These short visual explainers introduce several core dynamics described in the Reality Drift framework.
+
+Each page begins with a familiar experience in modern digital life and connects it to a structural mechanism operating in contemporary information systems.
+
+- [Why Is Everything Optimized but Worse?](why-is-everything-optimized-but-worse-optimization-trap-reality-drift.md) — Optimization Trap in digital systems 
+- [Why Does Everything Sound the Same Online?](why-does-everything-sound-the-same-online-linguistic-smoothing-reality-drift.md) — Linguistic convergence in algorithmic environments 
+- [Why Does Everything Feel Fake Online?](why-does-everything-feel-fake-online-synthetic-realness-reality-drift.md) — Synthetic realness and performative culture 
+- [Why Does Information Overload Make It Harder to Think?](why-does-information-overload-make-it-harder-to-think-filter-fatigue-reality-drift.md) — Filter fatigue in modern information environments   
+- [Why Does YouTube Keep Recommending the Same Kind of Content?](why-does-youtube-keep-recommending-the-same-kind-of-content-recommendation-loops-reality-drift.md) — Recommendation loops in digital platforms 
+
+These explainers provide simple entry points into key concepts from the Reality Drift framework and illustrate how different everyday experiences can emerge from common structural dynamics in modern digital systems.
+
+---
+
 ## Framework Concepts Referenced
 
 Many explanations reference key concepts from the Reality Drift framework:
